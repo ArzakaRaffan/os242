@@ -1,5 +1,5 @@
 ---
-<h1>OS242: ArzakaRaffan</h1>
+<h1> OS242: ArzakaRaffan </h1>
 ---
 Hello! Welcome to my Operating System Github Page!
 
