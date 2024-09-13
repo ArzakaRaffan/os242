@@ -4,7 +4,8 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# LINKS
+# 🔗LINKS
+Here are links that helped me understood Operating Systems with it brief explanation.🤖
 ---
 ## Week 1
 
