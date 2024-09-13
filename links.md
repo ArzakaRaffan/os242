@@ -13,4 +13,3 @@ permalink: LINKS/
 * [System Programming](https://sp.vlsm.org/){:target="_blank"} ---
   This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
   
----
