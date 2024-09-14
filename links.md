@@ -20,8 +20,8 @@ Here are links that helped me understand operating systems with a brief explanat
 
 ## Week 2
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"} ---
-  Cheatsheets for markdown tools for GitHub
+  Cheatsheets for markdown tools for GitHub. This is very helpful since i will (most likely) working with much .md files in my GitHub repositories
 * [SSH Keys](https://www.youtube.com/watch?v=dPAw4opzN9g){:target="_blank"} ---
-  An explanation video about how to create and use ssh keys. It also briefs about SSH Keys in general.
+  An explanation video about how to create and use ssh keys. It also briefs about SSH Keys in general. The video is very detailed and is easy to understand
 * [Python vs C](https://www.youtube.com/watch?v=Bl47ETLB_8Y){:target="_blank"} ---
-  Funny way to describe how fast is C comparing it to Python
+  Describing the diffence of speed between C and Python. What interesting is they made and explain it with a funny way so i could understand it easily.
