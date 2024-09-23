@@ -2,6 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 30 L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W03 30 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W03 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 90 L21 Trying something
+ZCZC W03 60 L73 Gaming including Board Games.
+ZCZC W03 90 L03 GitHub and git related, including commit, push, pull
+ZCZC W03 15 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W03 60 L22 Linux CLI including tar, etc.
+ZCZC W03 45 L23 Bash, Regex, SED, AWK.
+ZCZC W03 150 L09 Assignment in General
 ZCZC W02 45 Gaming including Board Games
 ZCZC W02 20 L32 YouTube: watching OS related topics
 ZCZC W02 180 L70 Studying for other courses.
