@@ -25,3 +25,7 @@ Here are links that helped me understand operating systems with a brief explanat
   An explanation video about how to create and use ssh keys. It also briefs about SSH Keys in general. The video is very detailed and is easy to understand
 * [Python vs C](https://www.youtube.com/watch?v=Bl47ETLB_8Y){:target="_blank"} ---
   Describing the diffence of speed between C and Python. What interesting is they made and explain it with a funny way so i could understand it easily.
+
+## Week 3
+* [Learn C Language In 10 Minutes!! C Language Tutorial](https://www.youtube.com/watch?v=dTp0c41XnrQ)
+  Brief yet detailed tutorial of C language. What interesting about this video is they can explain 3+ hours C Language course in just 10 minutes and people could still understand it
