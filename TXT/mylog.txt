@@ -2,6 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W03 30 L83 Pets: feeding, playing, etc
 ZCZC W03 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 30 L61 Install/Reinstall/Restore/Backup Virtual Box
