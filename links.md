@@ -33,3 +33,11 @@ Here are links that helped me understand operating systems with a brief explanat
   How hackers user reverse engineering to crack some software. What interesting is they explain it in a funny way
 * [FISH (Friendly Interactive Shell) by Bash Boomer](https://www.youtube.com/watch?v=C2a7jJTh3kU){:target="_blank"} ---
   a Unix shell designed to be user-friendly and interactive, offering improvements over more traditional shells like Bash
+
+## Week 4
+* [Pengalaman Pribadi Gaming di Linux](https://www.youtube.com/watch?v=BOGouicDCS8){:target="_blank"} ---
+  A person journey to play a game in Linux. What interesting is he tried many ways to play some game at Linux with so many problems in his way.
+* [Linux File System/Structure Explained!](https://youtu.be/HbgzrKJvDRw?si=txe73FhSaIda1L51){:target="_blank"} ---
+  Explains file and directory systems in Linux. Linux has a lot of folders such as /bin, /mnt, /dev, etc. Important lesson is just don't mess around with any of them :D
+*[Linux Crash Course - Managing Users](https://www.youtube.com/watch?v=19WOD84JFxA){:target="_blank"} ---
+  A linux crash course about managing users in Linux. The explanation is very detailed within chapters. Mainly about creating users, set the default directory, etc.
