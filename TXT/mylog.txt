@@ -2,6 +2,20 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W04 60 L64 Helping a friend (OS related problem)
+ZCZC W04 30 L24 Scripting in general.
+ZCZC W04 60 L04 GitHub Pages related
+ZCZC W04 120 L09 Assignment in General
+ZCZC W04 120 L30 Udacity: study, etc.
+ZCZC W04 60 L73 Gaming including Board Games.
+ZCZC W04 60 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W04 200 L70 Studying for other courses.
+ZCZC W04 60 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 60 L22 Linux CLI including tar, etc.
+ZCZC W04 75 L81 Listening: Radio, Music, etc.
+ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 60 L05 Quiz related including studying
+ZCZC W04 200 L02 CLASSROOM/ZOOM meetings related
 ZCZC W03 30 L83 Pets: feeding, playing, etc
 ZCZC W03 45 L80 Waching: Movie, YouTube, TV, Netflix, etc.
 ZCZC W03 200 L02 CLASSROOM/ZOOM meetings related
