@@ -41,3 +41,14 @@ Here are links that helped me understand operating systems with a brief explanat
   Explains file and directory systems in Linux. Linux has a lot of folders such as /bin, /mnt, /dev, etc. Important lesson is just don't mess around with any of them :D
 * [Linux Crash Course - Managing Users](https://www.youtube.com/watch?v=19WOD84JFxA){:target="_blank"} ---
   A linux crash course about managing users in Linux. The explanation is very detailed within chapters. Mainly about creating users, set the default directory, etc.
+
+
+## Week 5
+* [What is virtual memory?](https://www.techtarget.com/searchstorage/definition/virtual-memory){:target="_blank"} ---
+  An explanation about what is virtual memory all about, how virtual memory works, types of virtual memory, how to manage virtual memory, etcetera.
+
+* [16.2.2 Basics of Virtual Memory](https://www.youtube.com/watch?v=8yO2FBBfaB0){:target="_blank"} ---
+  This YouTube video explains all about virtual memory. But one thing i understood more in this video is the basic concept of paging. The slides and explanations are very intuitive.
+
+* [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} ---
+  This geeks for geeks article is about how to manage memories in Operating System. Memory management in an operating system (OS) refers to how the system handles and allocates memory resources for processes and applications.
