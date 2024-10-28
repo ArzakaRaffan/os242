@@ -52,3 +52,13 @@ Here are links that helped me understand operating systems with a brief explanat
 
 * [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/){:target="_blank"} ---
   This geeks for geeks article is about how to manage memories in Operating System. Memory management in an operating system (OS) refers to how the system handles and allocates memory resources for processes and applications.
+
+## Week 6
+* [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14){:target="_blank"} ---
+  This Youtube video explains a very detail explanation about what is fork and how to use fork() function in C. The fork() function in C is used to create a new process by duplicating the existing process.
+
+* [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk){:target="_blank"} ---
+  This video helps me to understand what a thread is. It contains a detail yet brief explanations about threads like Single-threaded process, Multi-threaded process, Benefits of multi-threaded programming with a good visualization so i could understand it clearly.
+
+* [Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE){:target="_blank"} ---
+  This (again) video from Neso Academy is good for those who want to learn more about semaphores in OS. It explains the history, description, binary semaphores, and counting semaphores. It also explains how wait () and signal () operations work.
