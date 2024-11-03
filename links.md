@@ -62,3 +62,13 @@ Here are links that helped me understand operating systems with a brief explanat
 
 * [Semaphores](https://www.youtube.com/watch?v=XDIOC2EY5JE){:target="_blank"} ---
   This (again) video from Neso Academy is good for those who want to learn more about semaphores in OS. It explains the history, description, binary semaphores, and counting semaphores. It also explains how wait () and signal () operations work.
+
+## Week 7
+* [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/){:target="_blank"} ---
+  This geeksforgeeks site explains that deadlock is where two or more processes are unable to proceed because each is waiting for the other to release resources. This site explains a very detail explanation about mutual exclusion, resource holding, circular wait, and no preemption.
+  
+* [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2){:target="_blank"} ---
+  This Youtube video from Neso Academy is about a cooperating process that can or be affected by other processes executing in the system or usually we call Process Synchronization. This video is included in a playlist that explains a very detail topics about synchronization
+
+* [Readers-Writers Problem](https://www.geeksforgeeks.org/readers-writers-problem-set-1-introduction-and-readers-preference-solution/){:target="_blank"} ---
+  Thhis geeksforgeeks page is about The readers-writer problem in operating systems. Readers-writer problem about managing access to shared data. Allowing multiple readers to read data at the same time.  
