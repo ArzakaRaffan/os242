@@ -71,4 +71,14 @@ Here are links that helped me understand operating systems with a brief explanat
   This Youtube video from Neso Academy is about a cooperating process that can or be affected by other processes executing in the system or usually we call Process Synchronization. This video is included in a playlist that explains a very detail topics about synchronization
 
 * [Readers-Writers Problem](https://www.geeksforgeeks.org/readers-writers-problem-set-1-introduction-and-readers-preference-solution/){:target="_blank"} ---
-  Thhis geeksforgeeks page is about The readers-writer problem in operating systems. Readers-writer problem about managing access to shared data. Allowing multiple readers to read data at the same time.  
+  Thhis geeksforgeeks page is about The readers-writer problem in operating systems. Readers-writer problem about managing access to shared data. Allowing multiple readers to read data at the same time.
+
+## Week 8
+* [LFS 12.2 - How to build Linux From Scratch 12.2](https://youtube.com/playlist?list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&si=5pwUOj3cG4ep4TTi){:target="_blank"} ---
+  This playlist provides a comprehensive guide on how to build Linux From Scratch (LFS) version 12.2. It includes detailed demonstrations and thorough explanations of each step involved in the process, from setting up the environment to building and configuring the core components of a custom Linux system.
+
+* [Arch Linux speedrun - 1:14](https://www.youtube.com/watch?v=8utpbbdj0LQ){:target="_blank"} ---
+  In this video, the creator demonstrates how to install Arch Linux in a lightning-fast speedrun, completing the entire process in just 1 minute and 14 seconds.
+
+* [Linux From Scratch Version 12.2](https://www.linuxfromscratch.org/lfs/view/12.2/index.html){:target="_blank"} ---
+  This is the official documentation for Linux From Scratch (LFS) Version 12.2, a project that provides step-by-step instructions for building your own custom Linux system from the ground up.
