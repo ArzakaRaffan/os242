@@ -82,3 +82,13 @@ Here are links that helped me understand operating systems with a brief explanat
 
 * [Linux From Scratch Version 12.2](https://www.linuxfromscratch.org/lfs/view/12.2/index.html){:target="_blank"} ---
   This is the official documentation for Linux From Scratch (LFS) Version 12.2, a project that provides step-by-step instructions for building your own custom Linux system from the ground up.
+
+## Week 9
+* [The Boot Loader Interface](https://systemd.io/BOOT_LOADER_INTERFACE/){:target="_blank"} ---
+  The Boot Loader Interface in systemd is a feature designed for systems that use the EFI (Extensible Firmware Interface) standard. It enables systemd to interact with the boot loader, allowing for a two-way exchange of information.
+
+* [What Is Firmware? Types and Examples](https://www.fortinet.com/resources/cyberglossary/what-is-firmware){:target="_blank"} ---
+  This site explains everything about firmware.This site explains that Firmware is a form of microcode or program embedded into hardware devices to help them operate effectively.
+
+* [Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scratch](https://www.youtube.com/watch?v=m6USND1vPhM){:target="_blank"} ---
+  This video explains how to enter chroot and building additional temporary tools for LFS. The visual demo helps me to understand how to do these such things.
